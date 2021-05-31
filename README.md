@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @why-github-why (but you can call me *Leon* 😄)
+- 👋 Hi, I’m @why-github-why (but you can call me "*Leon*" 😄)
 - 👀 I’m interested in ... Python Development
 - 🌱 I’m currently learning ... Django, Vue, WebGL
 - 💞️ I’m looking to collaborate on ... Python projects
