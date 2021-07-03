@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @why-github-why (but you can call me "*Leon*" 😄)
 - 👀 I’m interested in ... Python Development
-- 🌱 I’m currently learning ... Django, Vue, WebGL
+- 🌱 I’m currently learning ... Django
 - 💞️ I’m looking to collaborate on ... Python projects
 - 📫 How to reach me ... https://leonkleinhans.com 🤍
 
